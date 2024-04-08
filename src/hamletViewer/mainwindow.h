@@ -18,9 +18,9 @@
 #include <QByteArray>
 #define WIDTH_GIF 1920
 #define HEIGHT_GIF 1920
-#define ORGANIZATION_NAME "School21"
-#define ORGANIZATION_DOMAIN "edu.21-school.ru"
-#define APPLICATION_NAME "Hamlet3DViewer"
+#define ORGANIZATION_NAME ""
+#define ORGANIZATION_DOMAIN ""
+#define APPLICATION_NAME ""
 QT_BEGIN_NAMESPACE
 
 namespace Ui { class MainWindow; }
